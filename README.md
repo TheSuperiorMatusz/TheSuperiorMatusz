@@ -17,7 +17,7 @@ I am student at the Adam Mickiewicz University in Poznań.
 
 - :zap: In my free time, I read various books;
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maciej-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-matusz-2aaa3b215/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maciej-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-matusz-2aaa3b215/), project.maciej.matusz@gmail.com
 
 ### :hammer_and_wrench:  &nbsp;Languages and Tools :
 <p>
